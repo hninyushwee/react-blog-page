@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&family=Roboto+Slab&display=swap');
+*{
+    box-sizing: border-box;
+}
+h1, nav a{
+    font-family: 'Nova Square', sans-serif;
+}
